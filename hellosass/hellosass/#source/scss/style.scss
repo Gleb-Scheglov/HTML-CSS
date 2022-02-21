@@ -1,0 +1,14 @@
+// Файл обнуляющих стилей
+@import "nullstyle.scss";
+
+.blok {
+	font-size: 14px;
+	line-height: 20px;
+	margin: 0px 0px 0px 0px;
+	.div{
+		font-size: 5px;
+	}
+}
+.tekst {
+	color: aqua;
+}
